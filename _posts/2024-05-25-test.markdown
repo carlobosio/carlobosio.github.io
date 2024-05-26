@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hello World"
+date:   2024-05-25 17:45:25 +00:00
+image: /images/physics.gif
+categories: Berkeley
+course: "Hello World"
+author: "Carlo Bosio"
+---
+Test post for Carlo Bosio
