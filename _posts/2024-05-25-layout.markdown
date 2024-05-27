@@ -9,3 +9,4 @@ author: "Carlo Bosio"
 authors: "<strong>Carlo Bosio</strong>, Jerry Tang, Ting-Hao Wang, Mark W. Mueller"
 arxiv: https://arxiv.org/abs/2310.07649
 ---
+Joint layout-control optimization for robustness of multi-drone aerial manipulation.
