@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Automated Layout Design and Control of Robust Cooperative Grasped-Load Aerial Transportation Systems"
+venue: "arXiv preprint arXiv:2310.07649"
+date: 2023-09-15 17:45:25 +00:00
+image: /images/layout.jpg
+categories: Berkeley
+author: "Carlo Bosio"
+authors: "<strong>Carlo Bosio</strong>, Jerry Tang, Ting-Hao Wang, Mark W. Mueller"
+arxiv: https://arxiv.org/abs/2310.07649
+---
