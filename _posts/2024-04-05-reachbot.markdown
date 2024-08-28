@@ -8,5 +8,6 @@ categories: Research
 author: "Carlo Bosio"
 authors: "Tony G. Chen, Stephanie Newdick, Julia Di, <strong>Carlo Bosio</strong>, Nitin Ongole, Mathieu Lapôtre, Marco Pavone, Mark R. Cutkosky"
 website: https://www.science.org/doi/10.1126/scirobotics.adi9762
+arxiv: https://arxiv.org/abs/2407.00973
 ---
 A novel concept of rock climbing robot for Mars lava tube exploration.
