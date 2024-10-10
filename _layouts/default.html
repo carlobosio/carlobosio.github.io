@@ -11,6 +11,18 @@
 
     gtag('config', 'G-E00L9PT3V9');
   </script>
+
+  <script type="text/javascript">
+    function toggleBlock(id) {
+      var element = document.getElementById(id);
+      if (element.style.display === "none") {
+        element.style.display = "block";
+      } else {
+        element.style.display = "none";
+      }
+    }
+  </script>
+
   <title>{{ site.name }}</title>
 
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -126,6 +138,12 @@
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> |
+              {% endif %}
+              {% if post.abstract %}
+              <a href="javascript:toggleblock('proxfly_abs')">abstract</a> |
+              {% endif %}
+              {% if post.bibtex %}
+              <a href="{{post.bibtex}}">bibtex</a>
               {% endif %}
               <p></p>
               {{ post.excerpt }}
