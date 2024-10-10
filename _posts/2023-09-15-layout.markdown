@@ -8,5 +8,6 @@ categories: Research
 author: "Carlo Bosio"
 authors: "<strong>Carlo Bosio</strong>, Jerry Tang, Ting-Hao Wang, Mark W. Mueller"
 arxiv: https://arxiv.org/abs/2310.07649
+video: https://youtu.be/2LDrVZTe0Vw?si=aa6oGixdfZDq0QgF
 ---
 Joint layout-control optimization for robustness of multi-drone aerial manipulation.
