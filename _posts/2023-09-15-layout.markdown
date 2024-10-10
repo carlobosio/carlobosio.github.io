@@ -12,11 +12,11 @@ video: https://youtu.be/2LDrVZTe0Vw?si=aa6oGixdfZDq0QgF
 abstract: "The co-design of robotic systems, i.e. the joint optimization of physical parameters and controllers, is extremely challenging, due to the difficulties in predicting the effect that changes of physical parameters have on final performances. At the same time, physical and morphological modifications can drastically improve robot capabilities, perhaps completely unlocking new skills and tasks. We present a novel approach to co-optimize the physical layout and the control of a cooperative aerial transportation system. The goal is to achieve the most precise and robust flight when carrying a payload. We assume the agents are connected to the payload through rigid attachments, essentially transforming the whole system into a larger flying object with ''thrust modules'' at the attachment locations of the quadcopters. We investigate the optimal arrangement of the thrust modules around the payload, so that the resulting system achieves the best disturbance rejection capabilities. We choose the H2 norm as a metric of robustness, and propose an algorithm to optimize the layout of the vehicles around the object, and their control altogether. We experimentally validate the effectiveness and benefits of our approach using fleets of three and four quadcopters and payloads of diverse shapes." 
 bibtex: |
   @article{bosio2023automated,
-           title={Automated Layout Design and Control of Robust Cooperative Grasped-Load Aerial Transportation Systems},
-           author={Bosio, Carlo and Tang, Jerry and Wang, Ting-Hao and Mueller, Mark W},
-           journal={arXiv preprint arXiv:2310.07649},
-           year={2023}
-          }
+  title={Automated Layout Design and Control of Robust Cooperative Grasped-Load Aerial Transportation Systems},
+  author={Bosio, Carlo and Tang, Jerry and Wang, Ting-Hao and Mueller, Mark W},
+  journal={arXiv preprint arXiv:2310.07649},
+  year={2023}
+  }
 id: "paper-layout"
 ---
 Joint layout-control optimization for robustness of multi-drone aerial manipulation.
