@@ -140,11 +140,26 @@
               <a href="{{post.youtube}}">youtube</a> |
               {% endif %}
               {% if post.abstract %}
-              <a href="javascript:toggleblock('proxfly_abs')">abstract</a> |
+              <a href="javascript:toggleBlock('abstract-{{post.id}}')">abstract</a> |
               {% endif %}
               {% if post.bibtex %}
-              <a href="{{post.bibtex}}">bibtex</a>
+              <a href="javascript:toggleBlock('bibtex-{{post.id}}')">bibtex</a>
               {% endif %}
+
+              <!-- Abstract Section -->
+              {% if post.abstract %}
+              <div id="abstract-{{post.id}}" style="display:none;">
+                <p>{{ post.abstract }}</p>
+              </div>
+              {% endif %}
+              
+              <!-- Bibtex Section -->
+              {% if post.bibtex %}
+              <div id="bibtex-{{post.id}}" style="display:none;">
+                <pre>{{ post.bibtex }}</pre>
+              </div>
+              {% endif %}
+              
               <p></p>
               {{ post.excerpt }}
             </td>
