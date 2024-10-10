@@ -156,10 +156,10 @@
               <!-- Bibtex Section -->
               {% if post.bibtex %}
               <div id="bibtex-{{post.id}}" style="display:none;">
-                <pre>{{ post.bibtex }}</pre>
+                <pre xml:space="preserve">{{ post.bibtex }}</pre>
               </div>
               {% endif %}
-              
+
               <p></p>
               {{ post.excerpt }}
             </td>
