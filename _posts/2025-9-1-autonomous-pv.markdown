@@ -3,7 +3,7 @@ layout: post
 title:  "Combining Large Language Models and Gradient-Free Optimization for Automatic Control Policy Synthesis"
 venue: "arXiv"
 date: 2025-9-01 17:45:25 +00:00
-image: /images/system.png
+image: /images/system.jpg
 categories: Research
 author: "Carlo Bosio"
 authors: "Dimitri Jacquemont, <strong>Carlo Bosio</strong>, Teaya Yang, Ruiqi Zhang, Ozgur Orun, Shuai Li, Reza Alam, Thomas M. Schutzius, Simo A. Makiharju, Mark W. Mueller"
