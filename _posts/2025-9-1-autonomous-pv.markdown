@@ -18,4 +18,4 @@ bibtex: |
   }
 id: "paper-pv-coating"
 ---
-Using LLMs for generating parametric controllers and optimization to select their parameters. 
+Autonomously coating photovoltaic panels using quadcopters.

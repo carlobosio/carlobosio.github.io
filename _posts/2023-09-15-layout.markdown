@@ -3,7 +3,7 @@ layout: post
 title:  "Automated Layout Design and Control of Robust Cooperative Grasped-Load Aerial Transportation Systems"
 venue: "Robotics and Automation Letters"
 date: 2025-02-15 17:45:25 +00:00
-image: /images/layout.png
+image: /images/drones1.png
 categories: Research
 author: "Carlo Bosio"
 authors: "<strong>Carlo Bosio</strong>, Mark W. Mueller"
