@@ -19,4 +19,4 @@ bibtex: |
   }
 id: "paper-colmo"
 ---
-Using LLMs for generating parametric controllers and optimization to select their parameters. 
+Using LLMs to generate parametric controllers and numerical optimization to select their optimal parameters. 
