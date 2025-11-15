@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving"
-venue: "Data@CoRL25 Workshop, Embodied World Models for Decision Making Workshop (NeurIPS 2025)"
+venue: "Data@CoRL25 Workshop, Embodied World Models for Decision Making Workshop (NeurIPS)"
 date: 2025-9-15 17:45:25 +00:00
 image: /images/rdar-scene.png
 categories: Research
