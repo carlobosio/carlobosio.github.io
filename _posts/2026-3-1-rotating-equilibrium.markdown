@@ -3,7 +3,7 @@ layout: post
 title:  "Energy-Efficient Collaborative Transport of Tether-Suspended Payloads via Rotating Equilibrium"
 venue: "arXiv"
 date: 2026-3-01 17:45:25 +00:00
-image: overlay.png
+image: /images/overlay.png
 categories: Research
 author: "Carlo Bosio"
 authors: "Eric Foss*, Andrew Tai*, <strong>Carlo Bosio</strong>*, Mark W. Mueller"
