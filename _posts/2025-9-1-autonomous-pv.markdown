@@ -2,7 +2,7 @@
 layout: post
 title:  "Autonomous Close-Proximity Photovoltaic Panel Coating Using a Quadcopter"
 venue: "International Conference on Intelligent Robots and Systems"
-date: 2026-10-01 17:45:25 +00:00
+date: 2026-09-01 17:45:25 +00:00
 image: /images/system.jpg
 categories: Research
 author: "Carlo Bosio"
