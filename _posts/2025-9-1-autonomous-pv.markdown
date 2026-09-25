@@ -9,6 +9,7 @@ author: "Carlo Bosio"
 authors: "Dimitri Jacquemont, <strong>Carlo Bosio</strong>, Teaya Yang, Ruiqi Zhang, Ozgur Orun, Shuai Li, Reza Alam, Thomas M. Schutzius, Simo A. Makiharju, Mark W. Mueller"
 arxiv: https://arxiv.org/abs/2509.10979
 abstract: "Photovoltaic (PV) panels are becoming increasingly widespread in the domain of renewable energy, and thus, small efficiency gains can have massive effects. Anti-reflective and self-cleaning coatings enhance panel performance but degrade over time, requiring periodic reapplication. Uncrewed Aerial Vehicles (UAVs) offer a flexible and autonomous way to apply protective coatings more often and at lower cost compared to traditional manual coating methods. In this letter, we propose a quadcopter-based system, equipped with a liquid dispersion mechanism, designed to automate such tasks. The localization stack only uses onboard sensors, relying on visual-inertial odometry and the relative position of the PV panel detected with respect to the quadcopter. The control relies on a model-based controller that accounts for the ground effect and the mass decrease of the quadcopter during liquid dispersion. We validate the autonomy capabilities of our system through extensive indoor and outdoor experiments." 
+video: https://youtu.be/vu5w9_nMeT4?si=-dIkaqtnhXcZ0_78
 bibtex: |
   @article{jacquemont2025autonomous,
   title={Autonomous Close-Proximity Photovoltaic Panel Coating Using a Quadcopter},
